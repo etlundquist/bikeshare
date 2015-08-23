@@ -1,6 +1,7 @@
 # bikeshare
-Python programs to download and manage Indego PhillyBikeShare data using JSON API
+* Python programs to download the Indego PhillyBikeShare data via the JSON API and save it to a SQL database
+* SQL queries to define a schema to store the bikeshare data and run some basic queries
+* Tableau visualization of the data here:
+* This is an [Tableau Visualization](https://public.tableau.com/profile/eric.lundquist#!/vizhome/BikeShare_1/Overview)
 
-* Step 1: Write a program to download the available JSON data at fixed time intervals
-* Step 2: Write a program to populate a MySQL database with the bikeshare data
-* Step 3: Figure out how to get the data into Tableau Free to do some visualizations
+
